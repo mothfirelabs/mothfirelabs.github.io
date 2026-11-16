@@ -1,0 +1,1 @@
+import{t as e}from"./field.AUF149LD.js";var t=document.querySelector(`[data-field]`);t&&e(t,{layout:(e,t)=>({x:e*.5,y:t*.56,height:Math.min(t*.42,e*.62)}),depth:.6});
